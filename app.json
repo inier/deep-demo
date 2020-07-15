@@ -1,0 +1,19 @@
+{
+  "appKey": "70TIpNzc1IXoBNi6J8T9P9YqzbRNc6ee",
+  "appSecret": "EFrFms6S6vUrDh66oqo4bZYYiTUDuZf2",
+  "projectId": "84aeeee94d5d79180646a7b8ce88c7ea",
+  "id": 572,
+  "name": "deep-demo",
+  "framework": "vue",
+  "platform": "mobile",
+  "description": "deep-demo",
+  "git": {
+    "url": "https://github.com/inier/deep-demo.git",
+    "isPrivate": 0,
+    "username": "inier@qq.com",
+    "password": "37woa7QNLspk9hyXiHH0hu/3rYpmQB4L6VK5iHhLr+aSwMpFZM+SM5h9ZICAPxUCB0ptABPwGvigSxaDVrXaPw=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
